@@ -17,7 +17,7 @@ for (int i = 1; i <= b; i++)
     result *= a;
 }
 Console.WriteLine("{0}^{1} = {2}", a, b, result);
-Console.WriteLine("Нажмите любую кнопку для перехода к следующей задаче")
+Console.WriteLine("Нажмите любую кнопку для перехода к следующей задаче");
 Console.ReadKey();
 
 
@@ -39,7 +39,7 @@ while (num != 0)
     num /= 10;
 }
 Console.WriteLine("Сумма цифр в числе: " + sum);
-Console.WriteLine("Нажмите любую кнопку для перехода к следующей задаче")
+Console.WriteLine("Нажмите любую кнопку для перехода к следующей задаче");
 Console.ReadKey();
 
 
